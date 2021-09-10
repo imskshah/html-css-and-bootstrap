@@ -1,0 +1,83 @@
+.navbar
+{
+    background-color: rgb(13, 67, 94);
+}
+
+.header
+{
+    padding: 2% ;
+}
+input[type=search]:focus 
+{
+    border-color: #1c2c42;
+    box-shadow: 0 0 4px 2px #334864;
+}
+
+.jumbo
+{
+    background-color: rgb(239, 241, 243);
+}
+
+.foot
+{
+    padding: 3% 2% 3% 11%;
+    background-color: rgb(13, 67, 94);
+ 
+}
+
+.card-img-top
+{
+    width: auto;
+    height: 300px;
+}
+.col
+{
+    padding: 3%;
+}
+
+.img
+{
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+}
+.icons
+{
+    padding-top: 2%;
+    padding-bottom: 5%;
+    margin-left: 5px;
+}
+
+.list-unstyled
+{
+    padding-top: 5%;
+
+}
+.decor
+{
+
+    text-decoration: none;
+}
+
+.imagesize
+{
+    width: 150px;
+    height: 150px;  
+    border-radius: 50%;
+    
+}
+
+.decor3
+{
+    width: 350px;
+    height: 250px;
+}
+.myform
+{
+    padding: 2%;
+}
+
+
+
+
+
